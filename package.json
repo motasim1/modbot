@@ -1,0 +1,21 @@
+{
+  "name": "ModBot",
+  "version": "1.0",
+  "description": "A Discord.JS bot with a dashboard that is written in Express.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "quick.db": "^6.1.5"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
